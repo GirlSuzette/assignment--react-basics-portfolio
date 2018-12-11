@@ -1541,7 +1541,8 @@ nav {
       width: 41.67%; } }
 
 .portfolio-fixed img {
-  max-width: 100px;
+  max-width: 132px;
+  box-shadow: 4px 5px 12px #999;
   border-radius: 50%;
   display: block;
   margin: 10px auto; }
@@ -1552,11 +1553,13 @@ nav {
 
 .portfolio-fixed h1 {
   font-weight: 500;
-  margin-bottom: 8px; }
+  margin-bottom: 8px;
+   }
 
 .portfolio-fixed p {
-  color: #ccc;
+  color: black;
   font-weight: 300;
+  font-size: 31px;
   margin-top: 0; }
 
 .profile-content {
